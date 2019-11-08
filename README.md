@@ -1,1 +1,1 @@
-# Here are basic C-Programming code.
+# Here are some basic C-Programming code.
